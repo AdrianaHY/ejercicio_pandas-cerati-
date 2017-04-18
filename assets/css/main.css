@@ -39,7 +39,6 @@ img{
   padding-bottom: 10px;
   padding-right: 10px;
   border-top: 3px  solid #E7286B;
-  border-right: : 3px  solid #E7286B;
   border-bottom: 3px  solid #E7286B;
 }
 
@@ -57,4 +56,26 @@ div{
   padding-bottom: 1%;
   font-family: 'Palanquin Dark', sans-serif;
   font-size: 20px;
+  color:#FFFFFF;
+}
+.boton:hover{
+  color: #F80A71;
+}
+
+.parrafo{
+  display: inline-block;
+  background-color: #FFFFFF;
+  width: 500px;
+  margin-top: 1%;
+  margin-left: 10%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 4px;
+  padding-left: 4px;
+  border-top: 3px  solid #E7286B;
+  border-bottom: 3px  solid #E7286B;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 14px;
+  text-align: center;
+
 }
