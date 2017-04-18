@@ -33,10 +33,14 @@ img{
   width: 200px;
   height: 200px;
   margin-left: auto;
+  margin-right: auto;
   padding-top: 10px;
   padding-left: 10px;
   padding-bottom: 10px;
   padding-right: 10px;
+  border-top: 3px  solid #E7286B;
+  border-right: : 3px  solid #E7286B;
+  border-bottom: 3px  solid #E7286B;
 }
 
 div{
