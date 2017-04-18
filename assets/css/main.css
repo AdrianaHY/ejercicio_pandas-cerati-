@@ -1,5 +1,5 @@
 body{
-  background-image: url(https://2.bp.blogspot.com/-bfx7f2ws3u4/VvKoJ2Jq6cI/AAAAAAAABtw/YgOCjXCi6C0BzwqIMa86LEEoCu1CuPfnQ/s1600/Sin%2Bt%25C3%25ADtulo-8.png);
+  background-image: url(../img/fondo1.jpg);
 }
 header{
   font-size: 35px;
@@ -46,4 +46,15 @@ img{
 div{
   display: inline-block;
   margin-left: 7%;
+  padding-top: 1%;
+}
+
+.botones{
+  text-align: center;
+  background-color: #8455F2;
+  margin-top: 2%;
+  padding-top: 0%;
+  padding-bottom: 1%;
+  font-family: 'Palanquin Dark', sans-serif;
+  font-size: 20px;
 }
