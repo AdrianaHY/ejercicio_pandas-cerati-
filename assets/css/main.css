@@ -1,0 +1,45 @@
+body{
+  background-image: url(https://2.bp.blogspot.com/-bfx7f2ws3u4/VvKoJ2Jq6cI/AAAAAAAABtw/YgOCjXCi6C0BzwqIMa86LEEoCu1CuPfnQ/s1600/Sin%2Bt%25C3%25ADtulo-8.png);
+}
+header{
+  font-size: 35px;
+}
+ul {
+  background-color: black;
+}
+li {
+  display:inline-block;
+  padding:20px;
+  list-style: none;
+}
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 12px;
+  font-family: 'Palanquin Dark', sans-serif;
+
+}
+
+a:hover{
+  color: #978EAE;
+}
+span{
+  color:red;
+  margin: 0 100px;
+}
+
+img{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
+div{
+  display: inline-block;
+  margin-left: 7%;
+}
